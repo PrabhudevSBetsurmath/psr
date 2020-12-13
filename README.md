@@ -21,11 +21,13 @@ npm install
 Create a new file in root directory `.env`
 
 paste the below code in .env file,
+```bash
 DBURI=mongodb+srv://admin-prabhudev:Test123@cluster0.htz36.mongodb.net/user
 KEY=ForOnceTryToBeOriginal
 PORT=3000
 NODE_ENV=Morgan
 DEBUG=
+```
 
 
 ```bash
