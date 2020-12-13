@@ -8,7 +8,7 @@ This is a simple Blood Bank Web Application made for hacakthon Uses Node JS and 
 Clone the repo and install the dependencies.
 
 ```bash
-git clone https://github.com/rishav394/bloodbank.git
+git clone https://github.com/PrabhudevSBetsurmath/psr-hacketon-blood-bank.git
 cd bloodbank-master
 ```
 
