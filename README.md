@@ -9,7 +9,7 @@ Clone the repo and install the dependencies.
 
 ```bash
 git clone https://github.com/PrabhudevSBetsurmath/psr-hacketon-blood-bank.git
-cd bloodbank
+cd psr-hacketon-blood-bank
 ```
 
 ```bash
